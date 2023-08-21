@@ -1,0 +1,26 @@
+task 1--implement table ---sameer
+
+task 2 implement form--sameer
+
+
+step>cretae feature branch 
+then push code in feature branch
+then merge feature to master
+
+from base branch create new branch 
+
+---- git checkout -b <brnachname>
+        git status 
+        git add 
+        git commit -m"add file in feature"
+        git push origin <new barnch name>
+
+
+// for merging 
+chekout to master 
+then git merge feature1        
+
+
+
+task 1----vikash--login button ----vikash
+task2 ----sameer--- create login form----sameer
